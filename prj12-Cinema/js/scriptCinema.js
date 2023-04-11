@@ -1,4 +1,4 @@
-var filmsJSON = [
+var films = [
     {
         titolo: "Dune",
         regista: "Villeneuve",
