@@ -5,12 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     
     <h1>Cinema Coding</h1>
 
-    <div class="container">
+    <div class="container" id="divLocandina">
 
         <h3 id="titolo"></h3>
 
@@ -31,6 +32,15 @@
         <button id="btnAvanti">Avanti</button>
     </div>
 
+    <div class="container" id="divLogin">
+        <h3>Login</h3>
+        <input type="text" id="username" placeholder="username"><br>
+        <input type="text" id="password" placeholder="password"><br>
+        <button id="btnLogin">Login</button>
+    </div>
+
+    <!-- Faccio il login con un qualsiasi username e password (controllo solo se i campi sono stati compilati). Saluto l'utente.
+    Quando l'utente è connesso mostro un pulsante sotto le singole locandine "Compra". Quando l'utente clicca su Compra verrà registrato il titolo nella localStorage e verrà mostrato, in una lista, dentro il divLogin -->
 
     <script src="./js/scriptCinema.js"></script>
 
