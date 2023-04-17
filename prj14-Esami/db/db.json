@@ -1,0 +1,94 @@
+{
+  "studenti": [
+    {
+      "id": 1,
+      "nome": "Dario",
+      "cognome": "Mennillo",
+      "matricola": "A011",
+      "materia": "Programmazione 1"
+    },
+    {
+      "id": 2,
+      "nome": "Paola",
+      "cognome": "Rossi",
+      "matricola": "A012",
+      "materia": "Fisica 1"
+    },
+    {
+      "id": 3,
+      "nome": "Luca",
+      "cognome": "Gialli",
+      "matricola": "A013",
+      "materia": "Programmazione 1"
+    },
+    {
+      "nome": "Pasquale",
+      "cognome": "Esposito",
+      "matricola": "A014",
+      "id": 4,
+      "materia": "Fisica 1"
+    },
+    {
+      "nome": "Gennaro",
+      "cognome": "Esposito",
+      "matricola": "A033",
+      "materia": "Programmazione 1",
+      "id": 5
+    },
+    {
+      "nome": "Luca",
+      "cognome": "Rossi",
+      "matricola": "A044",
+      "materia": "Matematica",
+      "id": 6
+    },
+    {
+      "nome": "Paolo",
+      "cognome": "Verdi",
+      "matricola": "A055",
+      "materia": "Matematica",
+      "id": 7
+    },
+    {
+      "nome": "Salvatore",
+      "cognome": "Tre",
+      "matricola": "A0456",
+      "materia": "Matematica",
+      "id": 8
+    },
+    {
+      "nome": "Maria",
+      "cognome": "Fani",
+      "matricola": "A123",
+      "materia": "Programmazione 1",
+      "id": 9
+    },
+    {
+      "nome": "Prova",
+      "cognome": "Test",
+      "matricola": "A0345",
+      "materia": "Matematica",
+      "id": 10
+    }
+  ],
+  "docenti": [
+    {
+      "id": 1,
+      "nome": "Mario",
+      "cognome": "Verdi",
+      "materia": "Programmazione 1"
+    },
+    {
+      "id": 2,
+      "nome": "Anna",
+      "cognome": "Bianchi",
+      "materia": "Fisica 1"
+    },
+    {
+      "id": 3,
+      "nome": "Laura",
+      "cognome": "Verdi",
+      "materia": "Matematica"
+    }
+  ]
+}
